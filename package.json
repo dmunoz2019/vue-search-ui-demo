@@ -5,16 +5,19 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "convert": "node convertAndSave.js"
   },
   "dependencies": {
     "@elastic/react-search-ui-views": "^1.7.0",
     "@elastic/search-ui": "^1.7.0",
     "@elastic/search-ui-app-search-connector": "^1.7.0",
+    "axios": "^1.6.7",
     "core-js": "^2.6.5",
     "snakecase-keys": "^3.1.0",
     "vue": "^2.6.10",
-    "vuejs-paginate": "^2.1.0"
+    "vuejs-paginate": "^2.1.0",
+    "xml2js": "^0.6.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.8.0",

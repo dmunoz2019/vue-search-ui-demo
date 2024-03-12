@@ -1,6 +1,6 @@
 <template>
   <div class="sui-results-per-page">
-    <div class="sui-results-per-page__label">Show</div>
+    <div class="sui-results-per-page__label">Mostrar</div>
     <select
       name="resultsPerPage"
       :value="value"

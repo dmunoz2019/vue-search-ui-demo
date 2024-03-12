@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const snakecaseKeys = require("snakecase-keys");
-
+//  snakeCase
 fs.readFile(
   path.join(__dirname, "./src/data/cards-raw.json"),
   { encoding: "utf-8" },

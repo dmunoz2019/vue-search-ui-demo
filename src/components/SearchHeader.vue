@@ -6,7 +6,7 @@
           <div class="sui-search-box__wrapper">
             <input
               type="text"
-              placeholder="Try searching for 'water', 'dragon' or 'ragnaros'"
+              placeholder="Prueba buscando por 'water', 'dragon' o 'ragnaros'"
               class="sui-search-box__text-input"
               :value="value"
               @input="$emit('input', $event.target.value)"
@@ -15,7 +15,7 @@
           <input
             type="submit"
             class="button sui-search-box__submit"
-            value="Search"
+            value="Buscar"
           />
         </div>
       </form>

@@ -1,0 +1,710 @@
+{
+  "info": {
+    "publishDate": "02/23/2024",
+    "recordCount": 444
+  },
+  "data": [
+    {
+      "uid": "9639",
+      "firstName": "Ismail Abdul Salah",
+      "lastName": "HANIYA",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9150",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HANIYA",
+          "firstName": "Ismail"
+        },
+        {
+          "uid": "9151",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HANIYYA",
+          "firstName": "Ismaeel"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4696",
+          "dateOfBirth": "1962",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4697",
+          "placeOfBirth": "Shati",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9640",
+      "firstName": "Mohammed",
+      "lastName": "ABU TEIR",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9152",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "ABU TAIR",
+          "firstName": "Mohammed Mahmud"
+        },
+        {
+          "uid": "9153",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "ABOU TAYR",
+          "firstName": "Mohammad Mahmoud"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4698",
+          "dateOfBirth": "1951",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4699",
+          "placeOfBirth": "Umm Tuba",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9641",
+      "firstName": "Jamileh Abdullah",
+      "lastName": "AL-SHANTI",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9154",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "EL-SHANTI",
+          "firstName": "Jameela Abdallah"
+        },
+        {
+          "uid": "9155",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "AL SHANTEE",
+          "firstName": "Jamila Abed Allah"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4700",
+          "dateOfBirth": "1955",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4701",
+          "placeOfBirth": "Jabalia Camp",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9643",
+      "firstName": "Yasser Daoud",
+      "lastName": "MANSOUR",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [],
+      "dateOfBirth": [
+        {
+          "uid": "4703",
+          "dateOfBirth": "1967",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4704",
+          "placeOfBirth": "Nablus, West Bank",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9647",
+      "firstName": "Mahmoud Khaled",
+      "lastName": "ZAHHAR",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9160",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "AL ZAHAR",
+          "firstName": "Mahmoud Khaled"
+        },
+        {
+          "uid": "71276",
+          "type": "a.k.a.",
+          "category": "weak",
+          "lastName": "ZAHAR, Mahmoud",
+          "firstName": ""
+        },
+        {
+          "uid": "71277",
+          "type": "a.k.a.",
+          "category": "weak",
+          "lastName": "AL-ZAHAR, Mahmoud",
+          "firstName": ""
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4708",
+          "dateOfBirth": "1945",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "66815",
+          "placeOfBirth": "Gaza Strip",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9651",
+      "firstName": "Fathi Mohammed",
+      "lastName": "QAR'AWI",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9162",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "QARAWI",
+          "firstName": "Mohammed Fathi"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4712",
+          "dateOfBirth": "1958",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4713",
+          "placeOfBirth": "Ramin, West Bank",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9652",
+      "firstName": "Anwar Mohammed",
+      "lastName": "ZBOUN",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9163",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "AL-ZBOUN",
+          "firstName": "Anwar Muhammad"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4714",
+          "dateOfBirth": "1968",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4715",
+          "placeOfBirth": "Ilar",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9659",
+      "firstName": "Fathi Ahmad Mohammad",
+      "lastName": "HAMMAD",
+      "sdnType": "Individual",
+      "programs": [
+        "SDGT"
+      ],
+      "aka": [
+        {
+          "uid": "32437",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HAMMAD",
+          "firstName": "Fathi Ahmad"
+        },
+        {
+          "uid": "32438",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HAMAD",
+          "firstName": "Fathy Ahmed"
+        },
+        {
+          "uid": "32439",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HAMAD",
+          "firstName": "Fathi"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4722",
+          "dateOfBirth": "1961",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "21061",
+          "placeOfBirth": "Jabaliya, Gaza Strip",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9668",
+      "firstName": "Aziz",
+      "lastName": "DWEIK",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9170",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "DWAIK",
+          "firstName": "Aziz Salem Mustada"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4731",
+          "dateOfBirth": "1948",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4732",
+          "placeOfBirth": "Al-Khalil, Hebron",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9671",
+      "firstName": "Nayef",
+      "lastName": "RJOUB",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9174",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "RAJOUB",
+          "firstName": "Naif Mahmod"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4735",
+          "dateOfBirth": "1958",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4736",
+          "placeOfBirth": "Dura, West Bank",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9673",
+      "firstName": "Mohammed",
+      "lastName": "ABU JHEISHEH",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9176",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "ABU JHESHEH",
+          "firstName": "Mohammad Mutlaq"
+        },
+        {
+          "uid": "9177",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "ABU JEHEISHA",
+          "firstName": "Mohammed"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4738",
+          "dateOfBirth": "1955",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4739",
+          "placeOfBirth": "Izna, Hebron",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9683",
+      "firstName": "Fadel",
+      "lastName": "HAMDAN",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9190",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "HAMDAN",
+          "firstName": "Fadel Mohammad Saleh"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4748",
+          "dateOfBirth": "1953",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4749",
+          "placeOfBirth": "Ramallah, West Bank",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9684",
+      "firstName": "Mahmoud",
+      "lastName": "MUSLEH",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9191",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "MUSLEH",
+          "firstName": "Mahmoud Ibrahim Mahmoud"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4750",
+          "dateOfBirth": "1941",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4751",
+          "placeOfBirth": "Haifa, Israel",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9686",
+      "firstName": "Khaled Tafish",
+      "lastName": "THWEIB",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9193",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "THOUAIB",
+          "firstName": "Khaled Ibrahim Tafish"
+        },
+        {
+          "uid": "9194",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "DWEIB",
+          "firstName": "Khaled Tafesh"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4753",
+          "dateOfBirth": "1964",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4754",
+          "placeOfBirth": "Bethlehem",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9697",
+      "firstName": "Khaled",
+      "lastName": "ABU TOS",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9210",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "ABU QOUS",
+          "firstName": "Khalid Hamad Hamid"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4765",
+          "dateOfBirth": "1949",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4766",
+          "placeOfBirth": "Tulkarem, West Bank",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9698",
+      "firstName": "Khamis",
+      "lastName": "NAJJAR",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9211",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "NAJJAR",
+          "firstName": "Khamis Jawdat Khamis"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4767",
+          "dateOfBirth": "1949",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4768",
+          "placeOfBirth": "Khan Younis",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9699",
+      "firstName": "Salah",
+      "lastName": "AL-BARDAWIL",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9212",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "EL BARDAWIL",
+          "firstName": "Salah Mohammad"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4769",
+          "dateOfBirth": "1959",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4770",
+          "placeOfBirth": "Khan Younis",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9700",
+      "firstName": "Younes",
+      "lastName": "AL-ASTAL",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9213",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "EL-ASTAL",
+          "firstName": "Younis Mohe-eldeen Fayez"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4771",
+          "dateOfBirth": "1956",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4772",
+          "placeOfBirth": "Khan Younis",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9704",
+      "firstName": "Ahmad",
+      "lastName": "BAHAR",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9218",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "BAHAR",
+          "firstName": "Ahmed Mohamed"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4776",
+          "dateOfBirth": "1949",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4777",
+          "placeOfBirth": "Gaza",
+          "mainEntry": true
+        }
+      ]
+    },
+    {
+      "uid": "9705",
+      "firstName": "Jamal",
+      "lastName": "SALEH",
+      "sdnType": "Individual",
+      "programs": [
+        "NS-PLC"
+      ],
+      "aka": [
+        {
+          "uid": "9219",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "NASSER",
+          "firstName": "Jamal Talab Mohammad Saleh"
+        },
+        {
+          "uid": "9220",
+          "type": "a.k.a.",
+          "category": "strong",
+          "lastName": "SALEH",
+          "firstName": "Jamal Talab"
+        }
+      ],
+      "dateOfBirth": [
+        {
+          "uid": "4778",
+          "dateOfBirth": "1958",
+          "mainEntry": true
+        }
+      ],
+      "placeOfBirth": [
+        {
+          "uid": "4779",
+          "placeOfBirth": "Gaza",
+          "mainEntry": true
+        }
+      ]
+    }
+  ]
+}

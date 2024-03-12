@@ -1,8 +1,8 @@
 <template>
   <div class="sui-paging-info">
-    Showing
+    Mostrando
     <strong>{{ start }} - {{ Math.min(end, searchState.totalResults) }}</strong>
-    out of <strong>{{ searchState.totalResults }}</strong> for:
+    de <strong>{{ searchState.totalResults }}</strong> resultados para:
     <em>"{{ searchState.searchTerm }}"</em>
   </div>
 </template>

@@ -149,6 +149,7 @@ export default {
   methods: {
     handleFormSubmit() {
       driver.getActions().setSearchTerm(this.searchInputValue);
+      console.log("searchInputValue", this.searchInputValue);
     },
     handleFacetChange(event, facet) {
       const { value, checked } = event.target;
@@ -157,7 +158,6 @@ export default {
         facetFromDriver.type === "range"
           ? facetFromDriver.data.find(item => item.value.name === value).value
           : value;
-
       if (checked) {
         this[facet].push(value);
         driver.addFilter(facet, valueforApi, "any");
